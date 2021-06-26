@@ -34,6 +34,7 @@ namespace Questões
             this.questão1 = new System.Windows.Forms.ToolStripMenuItem();
             this.questão2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.questão3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -79,11 +80,24 @@ namespace Questões
             this.questão3ToolStripMenuItem.Text = "Questão 3";
             this.questão3ToolStripMenuItem.Click += new System.EventHandler(this.questão3ToolStripMenuItem_Click);
             // 
+            // linkLabel1
+            // 
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.LinkArea = new System.Windows.Forms.LinkArea(0, 0);
+            this.linkLabel1.LinkColor = System.Drawing.Color.White;
+            this.linkLabel1.Location = new System.Drawing.Point(80, 225);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(354, 20);
+            this.linkLabel1.TabIndex = 1;
+            this.linkLabel1.Text = "Clique em questões e selecione a questão desejada!";
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(545, 520);
+            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Menu";
@@ -102,5 +116,6 @@ namespace Questões
         private System.Windows.Forms.ToolStripMenuItem questão1;
         private System.Windows.Forms.ToolStripMenuItem questão2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem questão3ToolStripMenuItem;
+        private System.Windows.Forms.LinkLabel linkLabel1;
     }
 }

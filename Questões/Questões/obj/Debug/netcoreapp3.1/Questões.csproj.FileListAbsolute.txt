@@ -30,3 +30,4 @@ C:\Users\Entra21\Source\Repos\Primeiro-Reposit-rio\Questões\Questões\obj\Debug
 C:\Users\Entra21\Source\Repos\Primeiro-Reposit-rio\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.genruntimeconfig.cache
 C:\Users\Entra21\Source\Repos\Primeiro-Reposit-rio\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.F_Questao_1.resources
 C:\Users\Entra21\Source\Repos\Primeiro-Reposit-rio\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.Menu.resources
+C:\Users\Entra21\Source\Repos\Primeiro-Reposit-rio\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.Questao3.resources
