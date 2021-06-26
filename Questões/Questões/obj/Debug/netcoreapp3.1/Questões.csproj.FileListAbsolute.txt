@@ -1,0 +1,15 @@
+C:\Users\Entra21\source\repos\Questões\Questões\bin\Debug\netcoreapp3.1\Questões.exe
+C:\Users\Entra21\source\repos\Questões\Questões\bin\Debug\netcoreapp3.1\Questões.deps.json
+C:\Users\Entra21\source\repos\Questões\Questões\bin\Debug\netcoreapp3.1\Questões.runtimeconfig.json
+C:\Users\Entra21\source\repos\Questões\Questões\bin\Debug\netcoreapp3.1\Questões.runtimeconfig.dev.json
+C:\Users\Entra21\source\repos\Questões\Questões\bin\Debug\netcoreapp3.1\Questões.dll
+C:\Users\Entra21\source\repos\Questões\Questões\bin\Debug\netcoreapp3.1\Questões.pdb
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.txtCotacaoDolar.resources
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.csproj.GenerateResource.cache
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.dll
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.pdb
+C:\Users\Entra21\source\repos\Questões\Questões\obj\Debug\netcoreapp3.1\Questões.genruntimeconfig.cache
