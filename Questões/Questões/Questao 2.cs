@@ -36,6 +36,11 @@ namespace Questões
             MessageBox.Show($"A conversão do dólar para o real é:" + conversao);
         }
 
+        private void txtCotacaoDólar_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
+
         private void txtCotacaoDólar_Leave(object sender, EventArgs e)
         {
             Cotacao_dolar = double.Parse(txtCotacaoDólar.Text);

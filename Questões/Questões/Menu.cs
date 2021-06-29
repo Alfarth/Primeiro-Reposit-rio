@@ -17,19 +17,28 @@ namespace Questões
 
         private void questão1ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            F_Questao_1 F_Questao_1 = new F_Questao_1();
-            F_Questao_1.ShowDialog();
+            F_Questao_1 F_questao_1 = new F_Questao_1();
+            F_questao_1.ShowDialog();
         }
 
         private void questão2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             txtCotacaoDolar cotacaoDolar = new txtCotacaoDolar();
-            cotacaoDolar.Show();
+            cotacaoDolar.ShowDialog();
         }
 
         private void questão3ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+            Questao3 questao3 = new Questao3();
+            questao3.ShowDialog();
+
+
+        }
+
+        private void questão4ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Questao4 questao4 = new Questao4();
+            questao4.ShowDialog();
         }
     }
 }

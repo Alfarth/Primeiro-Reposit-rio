@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Questões",
+    "\\Questões\\Questões",
     "\\WinFormsApp2",
     "\\WinFormsApp2\\WinFormsApp2"
   ],
-  "SelectedNode": "\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+  "SelectedNode": "\\Questões\\Questões\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
