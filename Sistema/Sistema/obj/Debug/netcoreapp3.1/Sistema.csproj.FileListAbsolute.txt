@@ -1,0 +1,15 @@
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\bin\Debug\netcoreapp3.1\Sistema.exe
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\bin\Debug\netcoreapp3.1\Sistema.deps.json
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\bin\Debug\netcoreapp3.1\Sistema.runtimeconfig.json
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\bin\Debug\netcoreapp3.1\Sistema.runtimeconfig.dev.json
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\bin\Debug\netcoreapp3.1\Sistema.dll
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\bin\Debug\netcoreapp3.1\Sistema.pdb
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.Form1.resources
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.csproj.GenerateResource.cache
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.dll
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.pdb
+C:\Users\Entra21\source\repos\Primeiro-Reposit-rio\Sistema\Sistema\obj\Debug\netcoreapp3.1\Sistema.genruntimeconfig.cache
