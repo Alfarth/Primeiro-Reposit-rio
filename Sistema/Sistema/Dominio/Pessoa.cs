@@ -12,5 +12,9 @@ namespace Sistema.Dominio
         public string RG { get; set; }
 
         public string Sexo { get; set; }
+
+        public string DataNascimento { get; set; }
+
+        public string Telefone { get; set; }
     }
 }

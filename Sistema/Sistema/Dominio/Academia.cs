@@ -29,6 +29,30 @@ namespace Sistema.Dominio
                     Alunos.Remove(aluno);
                 }
             }
+       
+       }
+        public void SalvarAluno(string cpf, string nome, string telefone)
+        {
+            foreach (var aluno in Alunos)
+            {
+                if (aluno.CPF.Equals(cpf))
+                {
+                    aluno.Nome = nome;
+                    aluno.Telefone = telefone;
+                }
+            }
         }
-    }
+
+        public void Pagar(string cpf)
+        {
+            foreach (var aluno in Alunos)
+            {
+                if (aluno.CPF.Equals(cpf))
+                {
+                    aluno.PagaMensalidade();
+                }
+            }
+        }
+    }       
+
 }
