@@ -8,7 +8,6 @@ namespace Academia.Dominio
 {
     public class Aluno: Pessoa
     {
-        public string Modalidade { get; set; }
-
+        public virtual Modalidade Modalidade { get; set; }
     }
 }

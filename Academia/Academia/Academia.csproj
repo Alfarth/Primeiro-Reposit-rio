@@ -124,21 +124,30 @@
     <Compile Include="FrmModalidade.Designer.cs">
       <DependentUpon>FrmModalidade.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202108062230190_v01.cs" />
-    <Compile Include="Migrations\202108062230190_v01.designer.cs">
-      <DependentUpon>202108062230190_v01.cs</DependentUpon>
+    <Compile Include="Migrations\202108112329021_versao01.cs" />
+    <Compile Include="Migrations\202108112329021_versao01.designer.cs">
+      <DependentUpon>202108112329021_versao01.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\RepositorioAluno.cs" />
+    <Compile Include="Repository\RepositorioModalidade.cs" />
+    <Compile Include="Repository\RepositorioProfessor.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAluno.resx">
+      <DependentUpon>FrmAluno.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmModalidade.resx">
       <DependentUpon>FrmModalidade.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202108062230190_v01.resx">
-      <DependentUpon>202108062230190_v01.cs</DependentUpon>
+    <EmbeddedResource Include="FrmProfessor.resx">
+      <DependentUpon>FrmProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202108112329021_versao01.resx">
+      <DependentUpon>202108112329021_versao01.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -151,6 +160,7 @@
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\DataSources\Academia.Dominio.Modalidade.datasource" />
+    <None Include="Properties\DataSources\Academia.Dominio.Professor.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -164,6 +174,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

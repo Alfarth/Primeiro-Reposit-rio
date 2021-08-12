@@ -10,6 +10,8 @@ namespace Academia.Dominio
     public class Modalidade
     {
         [Key]
+        public int IdModalidade { get; set; }
+        [MaxLength(100), Required]
         public string Nome { get; set; }
 
     }

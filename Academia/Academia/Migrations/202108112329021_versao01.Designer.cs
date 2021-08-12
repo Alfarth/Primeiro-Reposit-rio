@@ -7,13 +7,13 @@ namespace Academia.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class v01 : IMigrationMetadata
+    public sealed partial class versao01 : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(v01));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(versao01));
         
         string IMigrationMetadata.Id
         {
-            get { return "202108062230190_v01"; }
+            get { return "202108112329021_versao01"; }
         }
         
         string IMigrationMetadata.Source
